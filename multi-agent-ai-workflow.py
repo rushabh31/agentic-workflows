@@ -28,7 +28,7 @@ from enum import Enum
 import uuid
 
 # Setup the Groq API key (needs to be provided by the user)
-os.environ["GROQ_API_KEY"] = "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"  # Replace with your actual Groq API key
+os.environ["GROQ_API_KEY"] = "<>"  # Replace with your actual Groq API key
 
 # Langchain imports
 from langchain.schema import Document
